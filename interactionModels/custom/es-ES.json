@@ -1,0 +1,105 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "juego de capitales",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "AnswerIntent",
+          "slots": [
+            {
+              "name": "citySlot",
+              "type": "AMAZON.City"
+            }
+          ],
+          "samples": [
+            "La respuesta es {citySlot}",
+            "Es {citySlot}",
+            "La capital es {citySlot}"
+          ]
+        },
+        {
+          "name": "AMAZON.YesIntent",
+          "samples": []
+        },
+        {
+          "name": "ClueIntent",
+          "slots": [],
+          "samples": [
+            "pistas",
+            "pista",
+            "dime la pista",
+            "dame una pista"
+          ]
+        },
+        {
+          "name": "PendingIntent",
+          "slots": [],
+          "samples": [
+            "pendiente",
+            "dime la pregunta pendiente",
+            "dime la pendiente"
+          ]
+        },
+        {
+          "name": "AMAZON.NoIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.RepeatIntent",
+          "samples": [
+            "Repite la pregunta",
+            "Vuelve a decirlo",
+            "Dime otra vez",
+            "Dime de nuevo",
+            "Repítemelo",
+            "Repite de nuevo",
+            "Repite"
+          ]
+        },
+        {
+          "name": "AMAZON.NextIntent",
+          "samples": [
+            "di me la siguiente",
+            "siguiente cuestión",
+            "siguiente pregunta",
+            "dime la siguiente",
+            "siguiente",
+            "paso palabra",
+            "pasa palabra"
+          ]
+        },
+        {
+          "name": "ContinentIntent",
+          "slots": [
+            {
+              "name": "continentSlot",
+              "type": "AMAZON.City"
+            }
+          ],
+          "samples": [
+            "Quiero {continentSlot}",
+            "El continente es {continentSlot}"
+          ]
+        }
+      ],
+      "types": []
+    }
+  },
+  "version": "13"
+}

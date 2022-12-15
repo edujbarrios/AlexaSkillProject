@@ -1,0 +1,72 @@
+module.exports = {
+  '0' : {
+    'id' : '0',
+    'question' : 'Which is the capital of Portugal?',
+    'capital' : 'lisboa',
+    'answer' : 'A curiosity is that it is where Cristóbal Colón got married',
+    'clue' : 'Begins with l'
+  },
+  '1' : {
+    'id' : '1',
+    'question' : 'Which is the capital of Turkey?',
+    'capital' : 'ankara',
+    'answer' : 'A curiosity is that even though Estambul is the most known Turkey city, Ankara is its capital',
+    'clue' : 'Begins with a'
+  },
+  '2' : {
+    'id' : '2',
+    'question' : 'Which is the capital of Ireland?',
+    'capital' : 'dublin',
+    'answer' : 'A curiosity is that is the city where the famous U2 singer was born, Bono',
+    'clue' : 'Begins with d'
+  },
+  '3' : {
+    'id' : '3',
+    'question' : 'Which is the capital of Norway?',
+    'capital' : 'oslo',
+    'answer' : 'A curiosity is that it is one of the most expensive city in the world, but at the same time, has one of the highest quality of life values',
+    'clue' : 'Begins with o'
+  },
+  '4' : {
+    'id' : '4',
+    'question' : 'Which is the capital of Monaco?',
+    'capital' : 'monaco',
+    'answer' : 'A curiosity is that it is considered one of the biggest tax havens in a global scale',
+    'clue' : 'Begins with m'
+  },
+  '5' : {
+    'id' : '5',
+    'question' : 'Which is the capital of Belgium?',
+    'capital' : 'bruselas',
+    'answer' : 'A curiosity is that begins with the same letter as the country name',
+    'clue' : 'Begins with b'
+  },
+  '6' : {
+    'id' : '6',
+    'question' : 'Which is the capital of Austria?',
+    'capital' : 'viena',
+    'answer' : 'A curiosity is that it has the the oldest zoo in the world',
+    'clue' : 'Begins with v'
+  },
+  '7' : {
+    'id' : '7',
+    'question' : 'Which is the capital of Bulgaria?',
+    'capital' : 'sofia',
+    'answer' : 'A curiosity is that it is one of the most economical UE cities',
+    'clue' : 'Begins with s'
+  },
+  '8' : {
+    'id' : '8',
+    'question' : 'Which is the capital of Spain?',
+    'capital' : 'madrid',
+    'answer' : 'A curiosity is that "Puerta del sol" clock is a present',
+    'clue' : 'Begins with M'
+  },
+  '9' : {
+    'id' : '9',
+    'question' : 'Which is the capital of Germany?',
+    'capital' : 'berlin',
+    'answer' : 'A curiosity is that Berlin is built over a swamp',
+    'clue' : 'Begins with B'
+  }
+}

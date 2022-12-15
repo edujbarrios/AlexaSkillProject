@@ -1,0 +1,74 @@
+module.exports = {
+ 
+    '0' : {
+      'id' : '0',
+      'question' : '¿Cuál es la capital de Israel?',
+      'capital' : 'jerusalem',
+      'answer' : 'Un dato curioso es que conviven en armonía las tres religiones más importantes del mundo',
+      'clue' : 'Empieza por j'
+    },
+    '1' : {
+      'id' : '1',
+      'question' : '¿Cuál es la capital de Japón?',
+      'capital' : 'tokio',
+      'answer' : 'Un dato curioso es que contiene el paso de peatones más largo del mundo',
+      'clue' : 'Empieza por t'
+    },
+    '2' : {
+    'id' : '2',
+    'question' : '¿Cuál es la capital de Filipinas?',
+    'capital' : 'manila',
+    'answer' : 'Un dato curioso es que estuvo bajo dominio español hasta 1898',
+    'clue' : 'Empieza por m'
+    },
+    '3' : {
+      'id' : '3',
+      'question' : '¿Cuál es la capital de Nepal?',
+      'capital' : 'katmandú',
+      'answer' : 'Un dato curioso es que está conformado a lo largo por la cordillera que contiene al Everest',
+      'clue' : 'Empieza por k'
+    },
+    '4' : {
+      'id' : '4',
+      'question' : '¿Cuál es la capital de Rusia?',
+      'capital' : 'moscú',
+      'answer' : 'Un dato curioso es que en esta ciudad les encanta regalar flores',
+      'clue' : 'Empieza por m'
+    },
+    '5' : {
+      'id' : '5',
+      'question' : '¿Cuál es la capital de Singapur?',
+      'capital' : 'singapur',
+      'answer' : 'Un dato curioso es que su anterior nombre era "pueblo del mar" o Tamarek',
+      'clue' : 'Empieza por s'
+    },
+    '6' : {
+      'id' : '6',
+      'question' : '¿Cuál es la capital de Vietnam?',
+      'capital' : 'hanoi',
+      'answer' : 'Un dato curioso es que es una de las ciudades con mayor índice de motos por habitante del mundo',
+      'clue' : 'Empieza por h'
+    },
+    '7' : {
+      'id' : '7',
+      'question' : '¿Cuál es la capital de Maldivas?',
+      'capital' : 'male',
+      'answer' : 'Un dato curioso es que es una de las capitales más bajas del mundo, con una altura promedia de 1.5 metros',
+      'clue' : 'Empieza por m'
+    },
+    '8' : {
+      'id' : '8',
+      'question' : '¿Cuál es la capital de Armenia?',
+      'capital' : 'yerevan',
+      'answer' : 'Un dato curioso es que el deporte favorito y más practicado en este país es el ajedrez',
+      'clue' : 'Empieza por y'
+    },
+    '9' : {
+      'id' : '9',
+      'question' : '¿Cuál es la capital de Corea del Sur?',
+      'capital' : 'seúl',
+      'answer' : 'Un dato curioso es que Seúl es la tercera área metropolitana más grande del mundo',
+      'clue' : 'Empieza por S'
+      }
+   
+}

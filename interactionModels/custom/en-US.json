@@ -1,0 +1,97 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "game of capitals",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "AnswerIntent",
+          "slots": [
+            {
+              "name": "citySlot",
+              "type": "AMAZON.City"
+            }
+          ],
+          "samples": [
+            "It is {citySlot}",
+            "Is {citySlot}",
+            "The capital is {citySlot}"
+          ]
+        },
+        {
+          "name": "AMAZON.YesIntent",
+          "samples": []
+        },
+        {
+          "name": "ClueIntent",
+          "slots": [],
+          "samples": [
+            "clue",
+            "give me a clue",
+            "give me a the clue"
+          ]
+        },
+        {
+          "name": "PendingIntent",
+          "slots": [],
+          "samples": [
+            "pending",
+            "ask me the pending question",
+            "ask me the pendiong one"
+          ]
+        },
+        {
+          "name": "AMAZON.NoIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.RepeatIntent",
+          "samples": [
+            "Ask me again",
+            "Again",
+            "Repeat",
+            "Ask again"
+          ]
+        },
+        {
+          "name": "AMAZON.NextIntent",
+          "samples": [
+            "Next quiestion",
+            "Next",
+            "Ask me the next one"
+          ]
+        },
+        {
+          "name": "ContinentIntent",
+          "slots": [
+            {
+              "name": "continentSlot",
+              "type": "AMAZON.City"
+            }
+          ],
+          "samples": [
+            "I want {continentSlot}",
+            "The continent is {continentSlot}"
+          ]
+        }
+      ],
+      "types": []
+    }
+  },
+  "version": "1"
+}

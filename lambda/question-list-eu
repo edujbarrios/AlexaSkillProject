@@ -1,0 +1,72 @@
+module.exports = {
+  '0' : {
+    'id' : '0',
+    'question' : '¿Cuál es la capital de Portugal?',
+    'capital' : 'lisboa',
+    'answer' : 'Un dato curioso es que se encuentra donde se casó Cristóbal Colón',
+    'clue' : 'Empieza por l'
+  },
+  '1' : {
+    'id' : '1',
+    'question' : '¿Cuál es la capital de Turquía?',
+    'capital' : 'ankara',
+    'answer' : 'Un dato curioso es que aunque Estambul es la ciudad más conocida de Turquía, Ankara es su capital',
+    'clue' : 'Empieza por a'
+  },
+  '2' : {
+    'id' : '2',
+    'question' : '¿Cuál es la capital de Irlanda?',
+    'capital' : 'dublín',
+    'answer' : 'Un dato curioso es que Dublín es la ciudad natal del famoso cantante de U2, Bono',
+    'clue' : 'Empieza por d'
+  },
+  '3' : {
+    'id' : '3',
+    'question' : '¿Cuál es la capital de Noruega?',
+    'capital' : 'oslo',
+    'answer' : 'Un dato curioso es que Oslo es una de las ciudades mas caras de todo el mundo, pero a la vez, posee uno de los niveles de vida más alto',
+    'clue' : 'Empieza por o'
+  },
+  '4' : {
+    'id' : '4',
+    'question' : '¿Cuál es la capital de Mónaco?',
+    'capital' : 'mónaco',
+    'answer' : 'Un dato curioso es que es considerado uno de los mayores paraísos fiscales a nivel global',
+    'clue' : 'Empieza por m'
+  },
+  '5' : {
+    'id' : '5',
+    'question' : '¿Cuál es la capital de Bélgica?',
+    'capital' : 'bruselas',
+    'answer' : 'Un dato curioso es que empieza por la misma letra que el nombre del país',
+    'clue' : 'Empieza por b'
+  },
+  '6' : {
+    'id' : '6',
+    'question' : '¿Cuál es la capital de Austria?',
+    'capital' : 'viena',
+    'answer' : 'Un dato curioso es que tiene el zoo más antiguo del mundo',
+    'clue' : 'Empieza por v'
+  },
+  '7' : {
+    'id' : '7',
+    'question' : '¿Cuál es la capital de Bulgaria?',
+    'capital' : 'sofía',
+    'answer' : 'Un dato curioso es que es una de las ciudades más económicas de toda la UE',
+    'clue' : 'Empieza por s'
+  },    
+  '8' : {
+    'id' : '8',
+    'question' : '¿Cuál es la capital de España?',
+    'capital' : 'madrid',
+    'answer' : 'Un dato curioso es que el reloj Puerta del Sol es un regalo',
+    'clue' : 'Empieza por M'
+    },
+  '9' : {
+    'id' : '9',
+    'question' : '¿Cuál es la capital de Alemania?',
+   'capital' : 'berlín',
+   'answer' : 'Un dato curioso es que Berlín está construida sobre una ciénaga',
+   'clue' : 'Empieza por B'
+   }
+}

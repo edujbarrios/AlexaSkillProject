@@ -1,0 +1,72 @@
+module.exports = {
+  '0' : {
+    'id' : '0',
+    'question' : 'Which is the capital of Israel?',
+    'capital' : 'jerusalem',
+    'answer' : 'A curiosity is that a total of three religions coexist together in harmony',
+    'clue' : 'Begins with j'
+  },
+  '1' : {
+    'id' : '1',
+    'question' : 'Which is the capital of Japan?',
+    'capital' : 'tokyo',
+    'answer' : 'A curiosity is that it contains the largest pedestrian crossing in the world',
+    'clue' : 'Begins with t'
+  },
+  '2' : {
+    'id' : '2',
+    'question' : 'Which is the capital of Philippines?',
+    'capital' : 'manila',
+    'answer' : 'A curiosity is that it stayed under Spain domain until the year 1898',
+    'clue' : 'Begins with m'
+  },
+  '3' : {
+    'id' : '3',
+    'question' : 'Which is the capital of Nepal?',
+    'capital' : 'katmandu',
+    'answer' : 'A curiosity is that it is formed at large by the mountain chain that contains the Everest',
+    'clue' : 'Begins with k'
+  },
+  '4' : {
+    'id' : '4',
+    'question' : 'Which is the capital of Russia?',
+    'capital' : 'moscu',
+    'answer' : 'A curiosity is that in this city flowers are a common present',
+    'clue' : 'Begins with m'
+  },
+  '5' : {
+    'id' : '5',
+    'question' : 'Which is the capital of Singapore?',
+    'capital' : 'singapore',
+    'answer' : 'A curiosity is that its previous name was "sea town" or Tamarek',
+    'clue' : 'Begins with s'
+  },
+  '6' : {
+    'id' : '6',
+    'question' : 'Which is the capital of Vietnam?',
+    'capital' : 'hanoi',
+    'answer' : 'A curiosity is that it is one of the cities with the biggest index of motorcycles by inhabitant in the world',
+    'clue' : 'Begins with h'
+  },
+  '7' : {
+    'id' : '7',
+    'question' : 'Which is the capital of Maldives?',
+    'capital' : 'male',
+    'answer' : 'A curiosity is that it is one of the least tall world cities, with an average of 1.5 meters',
+    'clue' : 'Begins with m'
+  },
+  '8' : {
+    'id' : '8',
+    'question' : 'Which is the capital of Armenia?',
+    'capital' : 'yerevan',
+    'answer' : 'A curiosity is that Chess is the favourite and most practished sport there',
+    'clue' : 'Begins with y'
+  },
+  '9' : {
+    'id' : '9',
+    'question' : 'Which is the capital of South Korea?',
+    'capital' : 'seoul',
+    'answer' : 'A curiosity is that it is the third largest world metropolitan area',
+    'clue' : 'Begins with S'
+  }
+}
